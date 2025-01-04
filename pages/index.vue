@@ -16,11 +16,11 @@
         <h4>Berita Terkini</h4>
     </div>
 
-    <div class="card mb-3 m-3 " style="width: 100%;">
+    <div class="card mb-3 m-3" style="width: 100%;">
         <div class="card-body">
             <h5 class="card-title">Pengumuman Kelulusan Siswa Tahun Pelajaran 2023/2024</h5>
             <p class="card-text">SMKN 4 TASIKMALAYA</p>
-            <a href="https://www.smkn4-tsm.sch.id/article/berita" class="btn btn-primary">Link</a>
+            <a href="" class="btn btn-primary">Link</a>
         </div>
     </div>
 
@@ -28,7 +28,7 @@
         <div class="card-body">
             <h5 class="card-title">Hasil Seleksi PPDB Tahap 2 Tahun 2020</h5>
                 <p class="card-text">Taufik Hidayat</p>
-            <a href="https://www.smkn4-tsm.sch.id/article/berita" class="btn btn-primary">Link</a>
+            <a href="" class="btn btn-primary">Link</a>
         </div>
     </div>
 
@@ -36,7 +36,7 @@
         <div class="card-body">
             <h5 class="card-title">Daftar Ulang PPDB SMKN 4 TASIKMALAYA Tahap 1 Tahun 2020</h5>
                 <p class="card-text">Muhammad Hilmi Ahadiat</p>
-            <a href="https://www.smkn4-tsm.sch.id/article/berita" class="btn btn-primary">Link</a>
+            <a href="" class="btn btn-primary">Link</a>
         </div>
     </div>
 
