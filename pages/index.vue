@@ -20,7 +20,7 @@
         <div class="card-body">
             <h5 class="card-title">Pengumuman Kelulusan Siswa Tahun Pelajaran 2023/2024</h5>
             <p class="card-text">SMKN 4 TASIKMALAYA</p>
-            <a href="https://www.smkn4-tsm.sch.id/#lg=1&slide=0" class="btn btn-primary">Link</a>
+            <a href="https://kelulusan-smkn4.vercel.app/" class="btn btn-primary">Link</a>
         </div>
     </div>
        <div class="card text-center m-3 mb-3" style="width: 100%;">
@@ -35,7 +35,7 @@
         <div class="card-body">
             <h5 class="card-title">Daftar Ulang PPDB SMKN 4 TASIKMALAYA Tahap 1 Tahun 2020</h5>
                 <p class="card-text">Muhammad Hilmi Ahadiat</p>
-            <a href="https://www.smkn4-tsm.sch.id/#lg=1&slide=0" class="btn btn-primary">Link</a>
+            <a href="https://www.smkn4-tsm.sch.id/pendataanpd/" class="btn btn-primary">Link</a>
         </div>
     </div>
 
