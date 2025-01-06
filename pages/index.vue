@@ -8,7 +8,7 @@
     </div>
 
     <div class="d-flex justify-content-center">
-        <img src="../assets/img/LOGO-SMK4 (1).png" alt="header" class="header">
+        <img src="~/assets/img/LOGO-SMK4 (1).png" alt="image" class="">
     </div>
     </div>
 
@@ -23,8 +23,7 @@
             <a href="" class="btn btn-primary">Link</a>
         </div>
     </div>
-
-    <div class="card text-center m-3 mb-3" style="width: 100%;">
+       <div class="card text-center m-3 mb-3" style="width: 100%;">
         <div class="card-body">
             <h5 class="card-title">Hasil Seleksi PPDB Tahap 2 Tahun 2020</h5>
                 <p class="card-text">Taufik Hidayat</p>
@@ -43,7 +42,7 @@
     <div class="row row-cols-1 row-cols-md-2 g-4 m-3">
             <div class="col">
         <div class="card">
-        <img src="..." class="card-img-top" alt="">
+        <img src="" class="card-img-top" alt="">
         <div class="card-body">
             <h5 class="card-title">Jumlah Siswa</h5>
             <p class="card-text"><h3>1116</h3></p>
@@ -52,7 +51,7 @@
     </div>
     <div class="col">
         <div class="card">
-        <img src="..." class="card-img-top" alt="">
+        <img src="" class="card-img-top" alt="">
         <div class="card-body">
             <h5 class="card-title">Jumlah Rombel</h5>
             <p class="card-text"><h3>34</h3></p>
@@ -61,7 +60,7 @@
     </div>
     <div class="col">
         <div class="card">
-        <img src="..." class="card-img-top" alt="">
+        <img src="" class="card-img-top" alt="">
         <div class="card-body">
             <h5 class="card-title">Jumlah Guru</h5>
             <p class="card-text"><h3>60</h3></p>
@@ -70,7 +69,7 @@
     </div>
     <div class="col">
         <div class="card">
-        <img src="..." class="card-img-top" alt="">
+        <img src="" class="card-img-top" alt="">
         <div class="card-body">
             <h5 class="card-title">Jumlah Tenaga Administrasi</h5>
             <p class="card-text"><h3>10</h3></p>

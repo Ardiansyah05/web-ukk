@@ -2,7 +2,7 @@
     <nav class="navbar navbar-expand-lg bg-primary">
         <div class="container-fluid">
         <a class="navbar-brand" href="#">
-            <img src="../assets/img/LOGO-SMK4 (1).png" alt="Bootstrap" width="50" height="55" data-v-641e567a="">
+            <img src="~/assets/img/LOGO-SMK4 (1).png" alt="Bootstrap" width="50" height="55" data-v-641e567a="">
         </a>
         <a class="navbar-brand" href="#">PROFIL SMKN 4 TASIKMALAYA</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
